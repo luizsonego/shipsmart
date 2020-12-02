@@ -1,0 +1,13 @@
+{
+    "name": "luiz/shipsmart",
+    "require-dev": {
+        "mongodb/mongodb": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Luiz Yavorski",
+            "email": "leesonego@gmail.com"
+        }
+    ],
+    "require": {}
+}
